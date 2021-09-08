@@ -1,0 +1,10 @@
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\GroupBox\bin\Debug\GroupBox.exe.config
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\GroupBox\bin\Debug\GroupBox.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\GroupBox\bin\Debug\GroupBox.pdb
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\GroupBox\obj\Debug\GroupBox.csprojAssemblyReference.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\GroupBox\obj\Debug\GroupBox.Form1.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\GroupBox\obj\Debug\GroupBox.Properties.Resources.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\GroupBox\obj\Debug\GroupBox.csproj.GenerateResource.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\GroupBox\obj\Debug\GroupBox.csproj.CoreCompileInputs.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\GroupBox\obj\Debug\GroupBox.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\GroupBox\obj\Debug\GroupBox.pdb

@@ -1,0 +1,10 @@
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\CompoundedInterest\bin\Debug\CompoundedInterest.exe.config
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\CompoundedInterest\bin\Debug\CompoundedInterest.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\CompoundedInterest\bin\Debug\CompoundedInterest.pdb
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\CompoundedInterest\obj\Debug\CompoundedInterest.csprojAssemblyReference.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\CompoundedInterest\obj\Debug\CompoundedInterest.Form1.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\CompoundedInterest\obj\Debug\CompoundedInterest.Properties.Resources.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\CompoundedInterest\obj\Debug\CompoundedInterest.csproj.GenerateResource.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\CompoundedInterest\obj\Debug\CompoundedInterest.csproj.CoreCompileInputs.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\CompoundedInterest\obj\Debug\CompoundedInterest.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\CompoundedInterest\obj\Debug\CompoundedInterest.pdb

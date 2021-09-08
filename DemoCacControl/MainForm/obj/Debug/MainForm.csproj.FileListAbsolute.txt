@@ -1,0 +1,11 @@
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MainForm\bin\Debug\MainForm.exe.config
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MainForm\bin\Debug\MainForm.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MainForm\bin\Debug\MainForm.pdb
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MainForm\obj\Debug\MainForm.csprojAssemblyReference.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MainForm\obj\Debug\MainForm.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MainForm\obj\Debug\MainForm.pdb
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MainForm\obj\Debug\MainForm.mainForm.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MainForm\obj\Debug\MainForm.LoginForm.resources

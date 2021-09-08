@@ -1,0 +1,10 @@
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\ListBox\bin\Debug\ListBox.exe.config
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\ListBox\bin\Debug\ListBox.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\ListBox\bin\Debug\ListBox.pdb
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\ListBox\obj\Debug\ListBox.csprojAssemblyReference.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\ListBox\obj\Debug\ListBox.Form1.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\ListBox\obj\Debug\ListBox.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\ListBox\obj\Debug\ListBox.pdb

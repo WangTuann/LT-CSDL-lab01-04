@@ -1,0 +1,9 @@
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MaskedTextbox\bin\Debug\MaskedTextbox.exe.config
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MaskedTextbox\bin\Debug\MaskedTextbox.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MaskedTextbox\bin\Debug\MaskedTextbox.pdb
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MaskedTextbox\obj\Debug\MaskedTextbox.MaskedTestBox.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MaskedTextbox\obj\Debug\MaskedTextbox.Properties.Resources.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MaskedTextbox\obj\Debug\MaskedTextbox.csproj.GenerateResource.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MaskedTextbox\obj\Debug\MaskedTextbox.csproj.CoreCompileInputs.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MaskedTextbox\obj\Debug\MaskedTextbox.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\MaskedTextbox\obj\Debug\MaskedTextbox.pdb

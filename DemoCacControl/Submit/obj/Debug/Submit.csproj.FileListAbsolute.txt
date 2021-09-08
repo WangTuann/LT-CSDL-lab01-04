@@ -1,0 +1,10 @@
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Submit\bin\Debug\Submit.exe.config
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Submit\bin\Debug\Submit.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Submit\bin\Debug\Submit.pdb
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Submit\obj\Debug\Submit.csprojAssemblyReference.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Submit\obj\Debug\Submit.Form1.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Submit\obj\Debug\Submit.Properties.Resources.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Submit\obj\Debug\Submit.csproj.GenerateResource.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Submit\obj\Debug\Submit.csproj.CoreCompileInputs.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Submit\obj\Debug\Submit.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Submit\obj\Debug\Submit.pdb

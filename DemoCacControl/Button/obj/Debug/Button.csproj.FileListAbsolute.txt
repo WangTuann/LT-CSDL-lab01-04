@@ -1,0 +1,10 @@
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Button\bin\Debug\Button.exe.config
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Button\bin\Debug\Button.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Button\bin\Debug\Button.pdb
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Button\obj\Debug\Button.csprojAssemblyReference.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Button\obj\Debug\Button.Form1.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Button\obj\Debug\Button.Properties.Resources.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Button\obj\Debug\Button.csproj.GenerateResource.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Button\obj\Debug\Button.csproj.CoreCompileInputs.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Button\obj\Debug\Button.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\Button\obj\Debug\Button.pdb

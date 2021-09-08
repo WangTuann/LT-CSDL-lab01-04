@@ -1,0 +1,10 @@
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\BooleanAlgebra1\obj\Debug\BooleanAlgebra1.csprojAssemblyReference.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\BooleanAlgebra1\obj\Debug\BooleanAlgebra1.Form1.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\BooleanAlgebra1\obj\Debug\BooleanAlgebra1.Properties.Resources.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\BooleanAlgebra1\obj\Debug\BooleanAlgebra1.csproj.GenerateResource.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\BooleanAlgebra1\obj\Debug\BooleanAlgebra1.csproj.CoreCompileInputs.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\BooleanAlgebra1\bin\Debug\BooleanAlgebra1.exe.config
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\BooleanAlgebra1\bin\Debug\BooleanAlgebra1.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\BooleanAlgebra1\bin\Debug\BooleanAlgebra1.pdb
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\BooleanAlgebra1\obj\Debug\BooleanAlgebra1.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\BooleanAlgebra1\obj\Debug\BooleanAlgebra1.pdb

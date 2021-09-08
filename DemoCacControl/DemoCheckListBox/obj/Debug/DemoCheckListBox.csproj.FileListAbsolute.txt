@@ -1,0 +1,10 @@
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DemoCheckListBox\bin\Debug\DemoCheckListBox.exe.config
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DemoCheckListBox\bin\Debug\DemoCheckListBox.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DemoCheckListBox\bin\Debug\DemoCheckListBox.pdb
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DemoCheckListBox\obj\Debug\DemoCheckListBox.Form1.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DemoCheckListBox\obj\Debug\DemoCheckListBox.Properties.Resources.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DemoCheckListBox\obj\Debug\DemoCheckListBox.csproj.GenerateResource.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DemoCheckListBox\obj\Debug\DemoCheckListBox.csproj.CoreCompileInputs.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DemoCheckListBox\obj\Debug\DemoCheckListBox.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DemoCheckListBox\obj\Debug\DemoCheckListBox.pdb
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DemoCheckListBox\obj\Debug\DemoCheckListBox.csprojAssemblyReference.cache

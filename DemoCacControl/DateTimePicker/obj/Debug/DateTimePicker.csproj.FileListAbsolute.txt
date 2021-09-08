@@ -1,0 +1,10 @@
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DateTimePicker\bin\Debug\DateTimePicker.exe.config
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DateTimePicker\bin\Debug\DateTimePicker.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DateTimePicker\bin\Debug\DateTimePicker.pdb
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DateTimePicker\obj\Debug\DateTimePicker.csprojAssemblyReference.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DateTimePicker\obj\Debug\DateTimePicker.Form1.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DateTimePicker\obj\Debug\DateTimePicker.Properties.Resources.resources
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DateTimePicker\obj\Debug\DateTimePicker.csproj.GenerateResource.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DateTimePicker\obj\Debug\DateTimePicker.csproj.CoreCompileInputs.cache
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DateTimePicker\obj\Debug\DateTimePicker.exe
+D:\IT-STUDY\LT-CSDL\TEST\TEST2\DateTimePicker\obj\Debug\DateTimePicker.pdb
