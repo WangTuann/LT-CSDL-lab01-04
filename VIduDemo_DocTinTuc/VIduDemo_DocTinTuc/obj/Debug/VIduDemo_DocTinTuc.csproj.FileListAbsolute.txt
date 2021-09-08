@@ -1,0 +1,5 @@
+D:\IT-STUDY\LT-CSDL\GIT\LapTrinh-CSDL\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\obj\Debug\VIduDemo_DocTinTuc.csprojAssemblyReference.cache
+D:\IT-STUDY\LT-CSDL\GIT\LapTrinh-CSDL\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\obj\Debug\VIduDemo_DocTinTuc.Properties.Resources.resources
+D:\IT-STUDY\LT-CSDL\GIT\LapTrinh-CSDL\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\obj\Debug\VIduDemo_DocTinTuc.csproj.GenerateResource.cache
+D:\IT-STUDY\LT-CSDL\GIT\LapTrinh-CSDL\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\obj\Debug\VIduDemo_DocTinTuc.csproj.CoreCompileInputs.cache
+D:\IT-STUDY\LT-CSDL\GIT\LapTrinh-CSDL\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\obj\Debug\VIduDemo_DocTinTuc.Form1.resources
