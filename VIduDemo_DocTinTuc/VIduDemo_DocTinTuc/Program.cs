@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+using VIduDemo_DocTinTuc.IO;
+
 namespace VIduDemo_DocTinTuc
 {
     static class Program
@@ -14,6 +16,8 @@ namespace VIduDemo_DocTinTuc
         [STAThread]
         static void Main()
         {
+            INewRepository repository = new NewRepository();
+            var manager = new NewFeedManager(repository);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());

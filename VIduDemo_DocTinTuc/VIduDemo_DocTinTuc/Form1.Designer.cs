@@ -44,7 +44,7 @@ namespace VIduDemo_DocTinTuc
             this.tvPubLish.Name = "tvPubLish";
             this.tvPubLish.Size = new System.Drawing.Size(214, 379);
             this.tvPubLish.TabIndex = 0;
-            this.tvPubLish.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeView1_AfterSelect);
+            this.tvPubLish.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.tvPubLish_AfterSelect);
             // 
             // label1
             // 
@@ -84,12 +84,12 @@ namespace VIduDemo_DocTinTuc
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pnNews.AutoScroll = true;
-            this.pnNews.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pnNews.BackgroundImage = global::VIduDemo_DocTinTuc.Properties.Resources.Corgi;
+            this.pnNews.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnNews.Location = new System.Drawing.Point(232, 59);
             this.pnNews.Name = "pnNews";
             this.pnNews.Size = new System.Drawing.Size(556, 379);
             this.pnNews.TabIndex = 1;
-            //this.pnNews.Paint += new System.Windows.Forms.PaintEventHandler(this.pnNews_Paint);
             // 
             // Form1
             // 

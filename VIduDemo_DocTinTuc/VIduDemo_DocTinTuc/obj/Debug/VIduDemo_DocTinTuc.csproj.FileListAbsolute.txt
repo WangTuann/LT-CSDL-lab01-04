@@ -3,3 +3,15 @@ D:\IT-STUDY\LT-CSDL\GIT\LapTrinh-CSDL\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\obj\
 D:\IT-STUDY\LT-CSDL\GIT\LapTrinh-CSDL\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\obj\Debug\VIduDemo_DocTinTuc.csproj.GenerateResource.cache
 D:\IT-STUDY\LT-CSDL\GIT\LapTrinh-CSDL\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\obj\Debug\VIduDemo_DocTinTuc.csproj.CoreCompileInputs.cache
 D:\IT-STUDY\LT-CSDL\GIT\LapTrinh-CSDL\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\obj\Debug\VIduDemo_DocTinTuc.Form1.resources
+D:\IT-STUDY\LT-CSDL\GIT\LAB\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\obj\Debug\VIduDemo_DocTinTuc.csprojAssemblyReference.cache
+D:\IT-STUDY\LT-CSDL\GIT\LAB\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\obj\Debug\VIduDemo_DocTinTuc.Form1.resources
+D:\IT-STUDY\LT-CSDL\GIT\LAB\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\obj\Debug\VIduDemo_DocTinTuc.Properties.Resources.resources
+D:\IT-STUDY\LT-CSDL\GIT\LAB\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\obj\Debug\VIduDemo_DocTinTuc.csproj.GenerateResource.cache
+D:\IT-STUDY\LT-CSDL\GIT\LAB\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\obj\Debug\VIduDemo_DocTinTuc.csproj.CoreCompileInputs.cache
+D:\IT-STUDY\LT-CSDL\GIT\LAB\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\obj\Debug\VIduDemo_DocTinTuc.AddFeedForm.resources
+D:\IT-STUDY\LT-CSDL\GIT\LAB\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\bin\Debug\Data\Data.txt
+D:\IT-STUDY\LT-CSDL\GIT\LAB\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\bin\Debug\VIduDemo_DocTinTuc.exe.config
+D:\IT-STUDY\LT-CSDL\GIT\LAB\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\bin\Debug\VIduDemo_DocTinTuc.exe
+D:\IT-STUDY\LT-CSDL\GIT\LAB\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\bin\Debug\VIduDemo_DocTinTuc.pdb
+D:\IT-STUDY\LT-CSDL\GIT\LAB\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\obj\Debug\VIduDemo_DocTinTuc.exe
+D:\IT-STUDY\LT-CSDL\GIT\LAB\VIduDemo_DocTinTuc\VIduDemo_DocTinTuc\obj\Debug\VIduDemo_DocTinTuc.pdb
