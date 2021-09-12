@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LAB02_VD2.DanhMucMonHoc">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAkCAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>DanhMucMonHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB02_VD2.frmGiaoVien">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAEAAAAECHAJjEAAIiAkEACAGMQgAAggAEACIAAEAI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB02_VD2.frmSearch">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAIBAQAICAAAACAAAAAAAgACAAAAACAAo=</HashCode>
+      <FileName>frmSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB02_VD2.frmTBGiaoVien">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACAAAAAAAICAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmTBGiaoVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB02_VD2.GiaoVien">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAUAAAAAAAAEAAAAAABAAAACQAAICI=</HashCode>
+      <FileName>GiaoVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB02_VD2.MonHoc">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAAAAACAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>MonHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB02_VD2.QuanLyGiaoVien">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgCCAAgAAAAAAAgAAAAAAAAEAAAAA=</HashCode>
+      <FileName>QuanLyGiaoVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="LAB02_VD2.KieuTim">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>KieuTim.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
