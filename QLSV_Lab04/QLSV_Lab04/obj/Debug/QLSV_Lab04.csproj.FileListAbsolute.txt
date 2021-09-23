@@ -1,0 +1,10 @@
+D:\IT-STUDY\LT-CSDL\QLSV_Lab04\QLSV_Lab04\bin\Debug\QLSV_Lab04.exe.config
+D:\IT-STUDY\LT-CSDL\QLSV_Lab04\QLSV_Lab04\bin\Debug\QLSV_Lab04.exe
+D:\IT-STUDY\LT-CSDL\QLSV_Lab04\QLSV_Lab04\bin\Debug\QLSV_Lab04.pdb
+D:\IT-STUDY\LT-CSDL\QLSV_Lab04\QLSV_Lab04\obj\Debug\QLSV_Lab04.csprojAssemblyReference.cache
+D:\IT-STUDY\LT-CSDL\QLSV_Lab04\QLSV_Lab04\obj\Debug\QLSV_Lab04.Form1.resources
+D:\IT-STUDY\LT-CSDL\QLSV_Lab04\QLSV_Lab04\obj\Debug\QLSV_Lab04.Properties.Resources.resources
+D:\IT-STUDY\LT-CSDL\QLSV_Lab04\QLSV_Lab04\obj\Debug\QLSV_Lab04.csproj.GenerateResource.cache
+D:\IT-STUDY\LT-CSDL\QLSV_Lab04\QLSV_Lab04\obj\Debug\QLSV_Lab04.csproj.CoreCompileInputs.cache
+D:\IT-STUDY\LT-CSDL\QLSV_Lab04\QLSV_Lab04\obj\Debug\QLSV_Lab04.exe
+D:\IT-STUDY\LT-CSDL\QLSV_Lab04\QLSV_Lab04\obj\Debug\QLSV_Lab04.pdb
